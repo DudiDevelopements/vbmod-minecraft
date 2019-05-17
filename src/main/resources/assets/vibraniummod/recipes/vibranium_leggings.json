@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "iii",
+    "i i",
+    "   "
+  ],
+  "key": {
+    "i": {
+      "item": "vibraniummod:vibranium_block"
+    }
+  },
+  "result": {
+    "item": "vibraniummod:vibranium_leggings",
+    "count": 1
+  }
+}
