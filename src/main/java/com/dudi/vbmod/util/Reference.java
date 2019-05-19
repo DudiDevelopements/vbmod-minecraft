@@ -13,5 +13,5 @@ public class Reference {
     public static final String COMMON_PROXY_CLASS = "com.dudi.vbmod.proxy.CommonProxy";
 
     //Guis
-    public static final int GUI_VIBRANIUM_CHEST = 2;
+    public static final int GUI_VIBRANIUM_FURNACE = 0;
 }

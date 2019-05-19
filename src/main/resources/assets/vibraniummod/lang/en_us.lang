@@ -11,6 +11,7 @@ itemGroup.vibraniummod.modCreativeTab=Vibranium Mod
 //Blocks
 tile.vibranium_block.name=Vibranium Block
 tile.vibranium_ore.name=Vibranium Ore
+tile.vibranium_furnace.name=Vibranium Furnace
 
 //Tools
 item.vibranium_sword.name=Vibranium Sword

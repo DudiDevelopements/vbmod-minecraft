@@ -1,0 +1,12 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "particle": "vibraniummod:blocks/vibranium_furnace_side",
+    "up": "vibraniummod:blocks/vibranium_furnace_side",
+    "down": "vibraniummod:blocks/vibranium_furnace_side",
+    "north": "vibraniummod:blocks/vibranium_furnace_front_off",
+    "east": "vibraniummod:blocks/vibranium_furnace_side",
+    "south": "vibraniummod:blocks/vibranium_furnace_side",
+    "west": "vibraniummod:blocks/vibranium_furnace_side"
+  }
+}

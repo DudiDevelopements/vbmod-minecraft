@@ -1,6 +1,0 @@
-{
-  "parent": "item/handheld",
-  "textures": {
-    "layer0": "vibraniummod:items/vibranium_axe"
-  }
-}

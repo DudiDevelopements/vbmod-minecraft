@@ -26,6 +26,7 @@ public class VibraniumOre extends BlockBase {
         return ModItems.VIBRANIUM_DUST;
     }
 
+
     @Override
     public int quantityDropped(Random random) {
         int max = 3;
